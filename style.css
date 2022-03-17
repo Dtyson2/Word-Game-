@@ -1,0 +1,30 @@
+.row{
+    color: rgb(240, 221, 158);
+}
+
+.lead{
+    color: rgb(240, 230, 230);
+}
+
+.candle{
+    display: Flex;
+      margin: 0px;
+      padding: 0px;
+      width: 100%;
+      text-align: Center;   
+}
+
+#candle-image{
+   
+    width:100%;
+    Height: 350px;
+    background-size: cover;
+}
+body,header{
+        border-radius: 20px;
+        background-image: url(https://images.unsplash.com/photo-1618022325802-7e5e732d97a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2t8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60);
+        height: 100%;
+   
+}
+
+
